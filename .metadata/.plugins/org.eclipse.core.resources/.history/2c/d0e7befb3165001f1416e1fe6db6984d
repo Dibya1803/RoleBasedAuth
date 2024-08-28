@@ -1,0 +1,5 @@
+package com.roleBasedAuth.controller;
+
+public class HomeController {
+
+}
